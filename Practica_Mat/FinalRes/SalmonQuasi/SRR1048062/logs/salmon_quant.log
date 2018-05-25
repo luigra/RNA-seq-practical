@@ -1,0 +1,32 @@
+[2018-05-25 11:53:28.629] [jointLog] [info] parsing read library format
+[2018-05-25 11:53:28.629] [jointLog] [info] There is 1 library.
+[2018-05-25 11:53:28.674] [jointLog] [info] Loading Quasi index
+[2018-05-25 11:53:28.674] [jointLog] [info] Loading 32-bit quasi index
+[2018-05-25 11:53:32.499] [jointLog] [info] done
+[2018-05-25 11:53:32.499] [jointLog] [info] Index contained 52122 targets
+[2018-05-25 11:53:53.209] [fileLog] [info] 
+At end of round 0
+==================
+Observed 7420748 total fragments (7420748 in most recent round)
+
+[2018-05-25 11:53:53.209] [jointLog] [info] Computed 60205 rich equivalence classes for further processing
+[2018-05-25 11:53:53.209] [jointLog] [info] Counted 5552071 total reads in the equivalence classes 
+[2018-05-25 11:53:53.214] [jointLog] [info] Mapping rate = 74.8182%
+
+[2018-05-25 11:53:53.214] [jointLog] [info] finished quantifyLibrary()
+[2018-05-25 11:53:53.222] [jointLog] [info] Starting optimizer
+[2018-05-25 11:53:53.259] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2018-05-25 11:53:53.260] [jointLog] [info] iteration = 0 | max rel diff. = 142.302
+[2018-05-25 11:53:53.386] [jointLog] [info] iteration = 100 | max rel diff. = 0.106041
+[2018-05-25 11:53:53.513] [jointLog] [info] iteration = 200 | max rel diff. = 0.0543934
+[2018-05-25 11:53:53.639] [jointLog] [info] iteration = 300 | max rel diff. = 0.0336399
+[2018-05-25 11:53:53.768] [jointLog] [info] iteration = 400 | max rel diff. = 0.0256773
+[2018-05-25 11:53:53.896] [jointLog] [info] iteration = 500 | max rel diff. = 0.0232439
+[2018-05-25 11:53:54.026] [jointLog] [info] iteration = 600 | max rel diff. = 0.0171915
+[2018-05-25 11:53:54.158] [jointLog] [info] iteration = 700 | max rel diff. = 0.0143786
+[2018-05-25 11:53:54.286] [jointLog] [info] iteration = 800 | max rel diff. = 0.0117074
+[2018-05-25 11:53:54.414] [jointLog] [info] iteration = 900 | max rel diff. = 0.0109927
+[2018-05-25 11:53:54.529] [jointLog] [info] iteration = 991 | max rel diff. = 0.00906315
+[2018-05-25 11:53:54.537] [jointLog] [info] Finished optimizer
+[2018-05-25 11:53:54.537] [jointLog] [info] writing output 
+

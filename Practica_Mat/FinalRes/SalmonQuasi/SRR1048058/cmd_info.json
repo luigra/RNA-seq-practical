@@ -1,0 +1,10 @@
+{
+    "salmon_version": "0.9.1",
+    "index": "/rds/user/lg490/hpc-work/RNASeq_Lectures/index/AllMer_index_quasi/",
+    "libType": "U",
+    "mates1": "/dev/fd/63",
+    "mates2": "/dev/fd/62",
+    "output": "/rds/user/lg490/hpc-work/RNASeq_Lectures/SalmonQuasi/SRR1048058",
+    "threads": "16",
+    "auxDir": "aux_info"
+}

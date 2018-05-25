@@ -782,7 +782,7 @@ Create in the directory *stringtie_quant* a file named sample_list.txt. On the f
 python scripts/prepDE.py -i stringtie_quant/sample_list.txt 
 ```
  
-The script will produce two result files: gene_count_matrix.csv and transcript_count_matrix.csv. This are te input files for the differential expression analysis or the principal component analysis (PCA).
+The script will produce two result files: gene_count_matrix.csv and transcript_count_matrix.csv. These are the input files for the differential expression analysis or the principal component analysis (PCA).
 
 ###Questions
 
