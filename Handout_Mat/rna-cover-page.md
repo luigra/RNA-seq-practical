@@ -49,6 +49,9 @@ $\begin{array}{l}
 
 [IGV genome browser](http://www.broadinstitute.org/igv/)
 
+[STAR RNA-seq aligner](https://github.com/alexdobin/STAR)
+
+[Salmon](https://combine-lab.github.io/salmon/)
 
 \pagebreak
 
